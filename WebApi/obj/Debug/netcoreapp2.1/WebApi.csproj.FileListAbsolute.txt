@@ -1,0 +1,14 @@
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\archana.kumari\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
